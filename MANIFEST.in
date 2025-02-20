@@ -1,0 +1,14 @@
+
+recursive-include tables/allOrgAngleTables *
+recursive-include tables/allOrgBondTables *
+recursive-include tables/IdealCoordGeometries *
+
+
+
+include tables/*.txt
+include tables/*.table
+include tables/*.json
+include tables/*.list
+include tables/*.cif
+include tables/*.tableBAK
+
